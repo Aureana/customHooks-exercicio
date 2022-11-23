@@ -1,0 +1,6 @@
+Item{
+    display: flex;
+}
+.Item .texto{
+    flex:1
+}
